@@ -1,0 +1,27 @@
+<style>
+.CyberMonday2018_Tile { width:100%; height:100%; background: url("/Asset_Archive/BRWeb/content/0014/432/618/assets/BRSP181125_PRM_US_CyberMonday_PromoDrawer.jpg") no-repeat; font-family: helvetica; text-align:left; position:relative; background-size: 100%; }
+.CyberMonday2018_Inner-wrapper { width:98%; position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); -webkit-transform:translate(-50%,-50%); -moz-transform:translate(-50%,-50%); }
+.CyberMonday2018_Inner-wrapper .CyberMonday2018-Headline { color: #DCDCDE; padding-top: .25em; padding-bottom: .25em; font-size: 3.25em; line-height: 1em; font-weight: 700; letter-spacing: .01em; text-transform: uppercase; padding-left: .75em }
+.CyberMonday2018_Inner-wrapper .CyberMonday2018-DollarSign { font-size: .5em; margin-bottom: .5em; position: relative; padding-right: .025em; vertical-align: top; font-weight: bold; }
+.CyberMonday2018_Inner-wrapper .CyberMonday2018-SubCopy { color: #DCDCDE; font-size: 1.5em; letter-spacing: .1em; font-weight: 600; line-height: 1.75em; padding-left: 1.75em; }
+.CyberMonday2018_Inner-wrapper .CyberMonday2018-CTA-wrapper { width: 100%; text-align: center }
+.CyberMonday2018_Inner-wrapper .CyberMonday2018-CTA-wrapper .CyberMonday2018-CTA { background-color: #DA0067; border-style: solid; border-width: 0.5px; display: inline-block; width: calc(50% - 36px); margin: 12px 4px 0 4px; vertical-align: top; padding: 6px 4px; letter-spacing: .1em; border-color: #da0067 }
+.CyberMonday2018_Inner-wrapper .CyberMonday2018-CTA-wrapper .CyberMonday2018-CTA a { font-size: 1em; font-weight: 700; color: #DCDCDE; text-decoration: none; width: 100%; display: block; }
+a.pd_div-wrapper { text-decoration:none; cursor:pointer; }
+</style>
+<div class="CyberMonday2018_Tile">
+  <div class="CyberMonday2018_Inner-wrapper">
+    <a class="pd_div-wrapper" mlink="MOB_DR_BG_2" href="/browse/category.do?cid=5032">
+      <div class="CyberMonday2018-Headline">today //<br /><span class="CyberMonday2018-DollarSign">$ </span>30 sweaters</div>
+      <div class="CyberMonday2018-SubCopy">SELECT STYLES ONLY.</div>
+    	<div class="CyberMonday2018-CTA-wrapper">
+    		<div class="CyberMonday2018-CTA">
+          <a href="/browse/category.do?cid=5032" mlink="MOB_DR_W_2">SHOP WOMEN</a>
+    		</div>
+    		<div class="CyberMonday2018-CTA">
+          <a href="/browse/category.do?cid=28660" mlink="MOB_DR_M_2">SHOP MEN</a>
+    		</div>
+    	</div>
+    </a>
+  </div>
+</div>
